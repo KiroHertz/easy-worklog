@@ -1,0 +1,18 @@
+.p-inputtext {
+  width: 100% !important;
+}
+
+.p-calendar-timeonly {
+  width: 100% !important;
+}
+
+.input-time {
+  width: 100%;
+  padding: 0.5rem 0.10rem 0.5rem 0.5rem;
+  font-size: 1rem;
+  color: #495057;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  height: 42px;
+  border-radius: 4px;
+}
